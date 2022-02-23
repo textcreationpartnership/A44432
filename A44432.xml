@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A blow at profaneness in a description and a rebuke of it, taken out of the right reverend Bishop Hopkins exposition of the Ten Commandments.</title>
+            <author>Hopkins, Ezekiel, 1634-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44432</idno>
+            <idno type="STC">Wing H2728A</idno>
+            <idno type="STC">ESTC R218440</idno>
+            <idno type="EEBO-CITATION">99830035</idno>
+            <idno type="PROQUEST">99830035</idno>
+            <idno type="VID">34482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2031:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A blow at profaneness in a description and a rebuke of it, taken out of the right reverend Bishop Hopkins exposition of the Ten Commandments.</title>
+                  <author>Hopkins, Ezekiel, 1634-1690.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside near Mercers-Chapel,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten Commandments --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34482:1" rendition="simple:additions"/>
+            <head>A BLOW AT <hi>Profaneneſs, In a Deſcription and a Rebuke of it, taken out of the Right Reve<g ref="char:EOLhyphen"/>rend Biſhop</hi> Hopkins <hi>Expoſiti<g ref="char:EOLhyphen"/>on of the Ten Commandments.</hi>
+            </head>
+            <p>
+               <hi>PRofaneneſs,</hi> is the ſlighting and neglect<g ref="char:EOLhyphen"/>ing of things Holy and Sacred. Who<g ref="char:EOLhyphen"/>ſoever is guilty of this, let his out<g ref="char:EOLhyphen"/>ward Demeanor in the World, be as fair, and as plauſible as <hi>Morality</hi> and <hi>Hy<g ref="char:EOLhyphen"/>pocriſie</hi> can adorn it, yet he is a Profane Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <pb n="2" facs="tcp:34482:2"/>
+            <p>The Spiritual Sacred things, are,</p>
+            <p>Firſt, <hi>God in his Nature and Eſſence.</hi> Whom we Profane when we entertain any Blaſphe<g ref="char:EOLhyphen"/>mous or Unworthy Thoughts of Him.</p>
+            <p>Secondly, <hi>God in his Name.</hi> Which we Profane, when we raſhly in our trivial Diſ<g ref="char:EOLhyphen"/>courſes, boult out that great and terrible Name, at which all the Powers of Heaven and Hell tremble. It doth ſadly fore-bode the growing Profaneneſs of the next Age, that Children be <hi>Taught</hi> or <hi>Suffered</hi> to call upon God in their <hi>Play,</hi> before they be taught to call on him in their <hi>Prayers.</hi>
+            </p>
+            <p>Thirdly, <hi>God in his Attributes.</hi> Which we Profane, when our Affections or Actions are oppoſite or unſuitable. <hi>e. g.</hi> Our <hi>
+                  <g ref="char:V">Ʋ</g>nholi<g ref="char:EOLhyphen"/>neſs</hi> profaneth his <hi>Holineſs.</hi> Our <hi>Deſpondence</hi> profaneth his <hi>Omnipotence.</hi> Our <hi>Hypocriſie</hi> profaneth his <hi>Omniſcience.</hi> Our <hi>Deſpair</hi> pro<g ref="char:EOLhyphen"/>faneth his <hi>Mercy.</hi> Our <hi>Preſumption</hi> profan<g ref="char:EOLhyphen"/>eth his <hi>Juſtice.</hi> Our <hi>ſinful Policy</hi> profaneth his <hi>Wiſdom.</hi> Our <hi>Security</hi> notwithſtanding his Threatnings, and our <hi>Slothfulneſs</hi> not<g ref="char:EOLhyphen"/>withſtanding his Promiſes, do profane his <hi>Truth. Every Sin is a kind of Profaneneſs, a Contempt of the Excellencies of God.</hi> How much more that which is ſinned for nothing, and defieth his Wrath and Juſtice without a Temptation?</p>
+            <pb n="3" facs="tcp:34482:2"/>
+            <p>What ſhould tempt the Impious Buffoon to deride <hi>Religion?</hi> Traveſt the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures?</hi> And turn whatſoever is <hi>Sacred</hi> and <hi>Ve<g ref="char:EOLhyphen"/>nerable</hi> into Burleſque and Drollery? And,</p>
+            <p>Fourthly, <hi>The Time God hath ſet apart and Conſecrated for his Service.</hi> Unto the holy obſervance whereof God hath condeſcend<g ref="char:EOLhyphen"/>ed to uſe three cogent Arguments; <hi>viz.</hi> 1. His own <hi>Example</hi> in Reſting on it. 2. The <hi>Liberal portion of Time that He hath allowed us</hi> for the Affairs of this preſent Life. 3. The <hi>Dedication</hi> of this day unto his im<g ref="char:EOLhyphen"/>mediate Service. [<hi>Vid.</hi> p. 207.] But we profane it, when we do not Reſt from the <hi>common works</hi> of our ordinary Callings. And do not diligently and conſcientiouſly attend upon all God's Ordinances, appointed to be performed on this day. And that whether in <hi>Publick, Private,</hi> or <hi>Secret.</hi>
+            </p>
+            <p>The Day is not done, when the Church diſſolves. <hi>The whole of it is Holy to the Lord.</hi> Walks and Viſits are not to be the Evening Work of the Sabbath; but holy and ſpiritual Conferences. Thoſe who have Families to look after, be beſt employed, in ſeeing them ſpend the vacant time of the Sabbath in Holy Exerciſes. <hi>Sc.</hi> Reading the Scripture, giving an account what Truths they have been taught, joyning with them in Praiſes and Prayer unto God. In
+<pb n="4" facs="tcp:34482:3"/>all of theſe, in their Courſes and Order, till Night calls for Repoſe.</p>
+            <p>Fifthly, <hi>The Ordinances of Jeſus Chriſt.</hi> Which we profane, when we Neglect, or are Remiſs in our attendance upon them.</p>
+            <p>Some particular Characters of a Profane Perſon here follow.</p>
+            <p>Firſt, <hi>He is a Profane Perſon that thinks and ſpeaks but ſlightly of Religion.</hi> Religion, our chiefeſt Excellency, the Crown of our Be<g ref="char:EOLhyphen"/>ings.</p>
+            <p>But have we not many, who <hi>deride Piety,</hi> and <hi>make a ſcoff of Religion?</hi> Who <hi>take up their Religion by Chance,</hi> never examining it. Thinking that any may ſuffice whatever it be. Secretly deſpiſing the holineſs and ſtrictneſs of others; thinking they make more ado to get to Heaven than needs. But indeed, they are not <hi>too preciſe;</hi> but theſe are <hi>too Profane,</hi> who contemn Religion as unneceſſary and ſuperfluous.</p>
+            <p>Secondly, <hi>He is a Profane Perſon who neg<g ref="char:EOLhyphen"/>lects the Publick Worſhip of God, when he hath opportunity and ability to attend it.</hi> Gods ſpe<g ref="char:EOLhyphen"/>cial Preſence is in two places, Heaven and the Church.</p>
+            <p>Thirdly, <hi>He is a Profane Perſon who neg<g ref="char:EOLhyphen"/>lects the performance of Religious Duties in pri<g ref="char:EOLhyphen"/>vate.</hi>
+               <pb n="5" facs="tcp:34482:3"/>Every Houſe ought to be a Temple, Dedicated to God. And every Maſter ought to be a <hi>Priest,</hi> to offer to God the daily Sacrifice of Prayers and Praiſes. Such <hi>Profane Families</hi> as thoſe which are without them, <hi>God ranks with Infidels and Heathens, and devotes them to the ſame common Deſtru<g ref="char:EOLhyphen"/>ction.</hi>
+            </p>
+            <p>In the Morning, Prayer is <hi>the Key that opens to us the Treaſury of Gods Mercies and Bleſſings.</hi> In the Evening, it is <hi>the Key that ſhuts us up ſafe under his Protection and Safe<g ref="char:EOLhyphen"/>guard.</hi>
+            </p>
+            <p>Excuſes are vain, and cannot take off your Obligation.</p>
+            <p>Are you <hi>Ignorant?</hi> Many are the helps that God hath provided you. Are you <hi>in<g ref="char:EOLhyphen"/>cumbred with your Worldly Affairs?</hi> The weightier they are, the more need you have to ask Counſel and Direction of God. Are you <hi>Baſhful and Modeſt?</hi> Alas, Be aſhamed to Sin, be aſhamed to Talk Looſly, be a<g ref="char:EOLhyphen"/>ſhamed to Neglect thy Duty before thy Family; but be not aſhamed to Pray, and do thy Duty. Our Saviour hath told us, <hi>Whoſoever therefore ſhall be aſhamed of me, and of my words, in this adulterous and ſinful Gene<g ref="char:EOLhyphen"/>ration, of him alſo ſhall the Son of Man be aſhamed when he cometh in the Glory of his Fa<g ref="char:EOLhyphen"/>ther, with the Holy Angels., Mark</hi> 8.38.
+<pb n="6" facs="tcp:34482:4"/>What will become of them who are a<g ref="char:EOLhyphen"/>ſhamed of their Duty.</p>
+            <p>Fourthly, <hi>He is a Profane Perſon that per<g ref="char:EOLhyphen"/>forms Holy Duties ſlightly and ſuperficially.</hi> Our <hi>whole Hearts</hi> muſt go into our <hi>Holy Duties.</hi> And the ſtrength and vigor of our Spirits muſt diffuſe themſelves into every part of them, to animate and quicken them.</p>
+            <p>Sacrifices of old, were commanded to be offered up with <hi>Fire.</hi> And <hi>no other Fire</hi> could ſanctifie them but that which ſhot it ſelf down from Heaven. The which was ever after to be kept burning for that uſe. Our Chriſtian Sacrifices of Praiſe and Pray<g ref="char:EOLhyphen"/>er muſt be offered with <hi>Fire;</hi> and that Fire muſt be darted down from Heaven. The Celeſtial Flame of Zeal and Love, which comes from Heaven, and hath a natural Tendency to carry up our Hearts and Souls thither.</p>
+            <p>But indeed commonly our Duties are ei<g ref="char:EOLhyphen"/>ther offered up with <hi>ſtrange, unhallowed Fire;</hi> ſome unruly Paſſion of Hatred, Self-love, and Pride: Or elſe they are very <hi>Cold and Heartleſs.</hi> Our Prayers are dull and yawn<g ref="char:EOLhyphen"/>ing, and drop over our Lips without any Spirit or Life in them.</p>
+            <p>Fifthly, <hi>He is a Profane Perſon that per<g ref="char:EOLhyphen"/>forms Holy Duties for Worldly Ends and Ad<g ref="char:EOLhyphen"/>vantages.</hi>
+               <pb n="7" facs="tcp:34482:4"/>For what greater contempt of God can there be than to make his ſervice truckle under baſe Deſigns? A Hypocrite is the moſt profane Wretch that Lives. He entitles the Holy God unto the Wickedneſs he commits, and makes God the Patron of his Sin. And the Wound that Religion re<g ref="char:EOLhyphen"/>ceives from Hypocrites, is far more dange<g ref="char:EOLhyphen"/>rous than that which open Sinners inflict upon it.</p>
+            <p>When he that ſpeaks <hi>Scripture,</hi> lives <hi>De<g ref="char:EOLhyphen"/>viliſm,</hi> this tempts Men to think that all Religion is but Mockery.</p>
+            <p>Sixthly, <hi>He is a Profane Perſon who makes what God hath Sanctified, Common and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>hallowed.</hi> And have we not many ſuch pro<g ref="char:EOLhyphen"/>fane Perſons! Many that abuſe the Holy and Reverend Name of God about <hi>frivo<g ref="char:EOLhyphen"/>lous</hi> matters? Who make mention of him in their <hi>idle Chat,</hi> but are Mute and Dumb when any thing ſhould be ſpoke to his Praiſe?</p>
+            <p>There are but two Ends that can warrant and juſtifie the uſe of any of God's Names, Titles, and Attributes. And they are, 1, <hi>Gods Glory,</hi> and, 2. <hi>The Edification of our ſelves and others.</hi> Gods terrible Name is ſo full of Glory and Majeſty that it ſhould never be uttered, but where the Diſcourſe is Serious and Weighty. <hi>Thoſe who rend it
+<pb n="8" facs="tcp:34482:5"/>with Oaths and Blaſphemies, ought to be puniſh<g ref="char:EOLunhyphen"/>ed by the Judges.</hi> And, <hi>would to God, Law were put in ſevere Execution, to cramp the Black Tongues of all ſuch Profane Wretches.</hi>
+            </p>
+            <p>Others fill up their Familiar Tattles with the Name of GOD and LORD making them to expreſs ſome <hi>ſmall Wonder<g ref="char:EOLhyphen"/>ment,</hi> and fill up a gap in their Diſcourſes Theſe, God will not hold Guiltleſs. He holds himſelf contemned, and will re<g ref="char:EOLhyphen"/>venge the Diſhonour that they do him by it.</p>
+            <p>What! Will you dare to bolt out the great Name of God <hi>without conſidering it?</hi> Is it a Name to <hi>be ſported with?</hi> To be toſt to and fro upon every light and vain Tongue? Whenever we mention it, we ought <hi>to bow our Hearts in the deepeſt proſtra<g ref="char:EOLhyphen"/>tion</hi> before it; to which all the Powers in Heaven and Earth bow down with moſt humble Veneration.</p>
+            <p>Canſt thou in Duty eaſily compoſe thy ſelf to <hi>Reverence</hi> the holy and dreadfu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Name. When thou haſt accuſtomed thy ſelf to Name him <hi>without any Reſpect</hi> in thy common Diſcourſes?</p>
+            <p>Let me beſeech you, <hi>O Chriſtians,</hi> as you tender his Glory, of which He is jealous whenſoever you ſpeak of God, or bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mention his Name. Do it with an Ho<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:34482:5"/>Awe and Dread of his Divine Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>And you, who are <hi>Maſters of Families,</hi> and have Children, beware that you ſtop in them the growing Sin of profaning God's Name!</p>
+            <p>To atteſt any thing <hi>by their Faith, or by their Truth,</hi> is a wicked Oath. More Im<g ref="char:EOLhyphen"/>pious in effect, than Louder ones. The By-word <hi>Marry,</hi> is no leſs than Swearing by the Virgin <hi>Mary.</hi> It is a notable De<g ref="char:EOLhyphen"/>vice of the Devil to bring fooliſh masked words into common uſe. 1. That they may Swear who uſe them, though they know it not. And, 2. That by uſing un<g ref="char:EOLhyphen"/>known Oaths, they may be brought in time to take up known ones.</p>
+            <p>
+               <hi>Vehement Aſſeverations,</hi> be alſo dangerous beginnings of Oaths. By the Cuſtomary uſe of them, we ſhall inſenſibly be tripping upon an Oath. [This, and more, ſee p. 163. and up and down on the third Commandment.] To return,</p>
+            <p>Many Profane <hi>Gods Sabbaths,</hi> invade im<g ref="char:EOLhyphen"/>piouſly the Time that he hath ſet apart for himſelf, his own Worſhip and Service. Many <hi>make the Bible their Jeſt-Book;</hi> proſti<g ref="char:EOLhyphen"/>tuting thoſe Expreſſions which God hath ſanctified to convey to us the knowledge of Himſelf, and of Eternal Life, unto the
+<pb n="10" facs="tcp:34482:6"/>Laughter and Mirth of their looſe Compa<g ref="char:EOLhyphen"/>nions.</p>
+            <p>Thoſe very words which the <hi>Holy Ghoſt</hi> inſpired for the <hi>Edification</hi> of the Church, the <hi>Devil</hi> inſpires into theſe profane Wretches for their <hi>own Damnation,</hi> and the Damnation of thoſe that have pleaſure in ſuch horrid Profaneneſs.</p>
+            <p>Seventhly, <hi>He is a Profane Perſon, who deſpiſeth Spiritual Priviledges and Enjoyments.</hi> Upon this very account, the Scripture ſets a black and indelible Brand upon <hi>Eſau Leſt there be any Fornicator, or Profane Per<g ref="char:EOLhyphen"/>ſon, as</hi> Eſau, <hi>who for one morſel of Meat ſol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Birthright, Heb.</hi> 12.16. They are Pro<g ref="char:EOLhyphen"/>fane, who vilify the <hi>Miniſtry</hi> in Them<g ref="char:EOLhyphen"/>ſelves and in Others. Who diſhonour God's <hi>Embaſſadors.</hi> And who deſpiſe his <hi>Children,</hi> whom God ſo highly honours as to adopt them into his Family. <hi>He who deſpiſeth him that is Begotten, deſpiſeth him likewiſe that Begetteth.</hi> Contempt of <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> and <hi>Servants,</hi> argues ſecret contempt of the <hi>Maſter</hi> and <hi>Father.</hi>
+            </p>
+            <p>Now lay theſe things to your own Hearts and bring them home to your own Con<g ref="char:EOLhyphen"/>ſciences, and ſee whether you are in none of theſe particulars guilty of Profane<g ref="char:EOLhyphen"/>neſs!</p>
+            <pb n="11" facs="tcp:34482:6"/>
+            <p>Do none of you <hi>think ſlightly of Religion,</hi> accounting it a Politick Deſign, or a Need<g ref="char:EOLhyphen"/>leſs Preciſeneſs?</p>
+            <p>Are none of you <hi>Negligent in the Publick Worſhip of God?</hi> Nor in <hi>Private</hi> and <hi>Family Duties?</hi>
+            </p>
+            <p>Or, if you perform them, <hi>is it not very careleſly and perfunctorily?</hi>
+            </p>
+            <p>Or, if you ſeem Zealous in them, <hi>is not your Zeal excited by ſome Temporal Advan<g ref="char:EOLhyphen"/>tages and Worldly Deſigns?</hi>
+            </p>
+            <p>Do you not <hi>make that Common and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>holy, which God hath made Holy?</hi> Either, by Abuſing his <hi>Name,</hi> Polluting his <hi>Sab<g ref="char:EOLhyphen"/>baths,</hi> or Vilifying his <hi>Word</hi> in your ordina<g ref="char:EOLhyphen"/>ry Raillery?</p>
+            <p>Laſtly, Do none of you <hi>Deſpiſe Spiritual Priviledges, and the Perſons who are inveſted with them?</hi>
+            </p>
+            <p>If you do, <hi>how fair ſoever your Lives and Actions</hi> may be; although you may think the <hi>rude debauched Sinner</hi> at a vaſt diſtance from your ſelves, and account him the only Profane Perſon; yet certainly <hi>this black
+<pb n="12" facs="tcp:34482:7"/>ſtile belongs as properly to you.</hi> And you are profane Violaters of the Firſt Command<g ref="char:EOLhyphen"/>ment. Which requires you to take the Lord for your God, and accordingly to Ho<g ref="char:EOLhyphen"/>nour and Reverence Him, and whatſoever appertains unto Him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> nea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mercers</hi>-Chapel. 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
